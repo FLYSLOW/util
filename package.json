@@ -1,0 +1,26 @@
+{
+  "name": "x-util",
+  "version": "0.1.0",
+  "description": "Utilities for using on demand.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FLYSLOW/x-util.git"
+  },
+  "keywords": [
+    "util",
+    "utility"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FLYSLOW/x-util/issues"
+  },
+  "homepage": "https://github.com/FLYSLOW/x-util",
+  "devDependencies": {
+    "webpack": "^1.12.11"
+  }
+}
